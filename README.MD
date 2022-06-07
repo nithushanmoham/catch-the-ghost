@@ -14,3 +14,10 @@ It is a ghost catching funny game for kids, it is developed using  HTML and CSS.
 ### Page 2
 
 ![DEMO 2](github-readme-content/img-2.jpg)
+
+
+## Social Links
+
+* [Linkedin](https://www.linkedin.com/in/nithushanmohan/)
+
+* [Facebook](https://www.facebook.com/profile.php?id=100077725721945)
