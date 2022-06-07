@@ -8,7 +8,7 @@ It is a ghost catching funny game for kids, it is developed using  HTML and CSS.
 
 ### Page 1
 
-![DEMO 1](github-readme-content/img-1.png)
+![DEMO 1](github-readme-content/img.jpg)
 
 
 ### Page 2
